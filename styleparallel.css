@@ -1,0 +1,92 @@
+h1{
+    
+    
+    
+    font-size: 200;
+    font-weight: lighter;
+    font-family: 'Lato', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 5px;
+    font-style: normal;
+    max-width: fit-content;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: 355px 540px;
+}
+body{
+    background-image: url("https://inrix.com/wp-content/themes/inrix/assets/images/placeholders/placeholder-9.jpg?x85056");
+    background-attachment: fixed;
+  
+    
+}
+h2.section1{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.section1{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.section1{
+    background-color: rgb(230, 229, 227);
+    padding: 30px;
+    border: 1px solid rgb(230, 229, 227);
+    margin: 0px;
+}
+div.img2{
+    font-family: 'Lato', Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 30px;
+    padding: 250px;
+    border: 1px;
+    margin: 0;
+    letter-spacing: 5px;
+    
+    background-image: url("https://imgs.6sqft.com/wp-content/uploads/2020/05/22110146/NYC-Open-Streets-West-End-Avenue.jpg");
+    background-attachment: fixed;
+   
+}
+div.section2,div.section3{
+    background-color:rgb(42, 43, 42);
+    padding: 30px;
+    border: 1px solid #000000;
+    margin: 0px;
+
+}
+h2.section2,h2.section3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    text-align: center;
+    
+
+}
+p.section2,p.section3{
+    font-size: large;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.img3{
+    font-family:  Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 30px;
+    padding: 250px;
+    border: 1px;
+    margin: 0;
+    letter-spacing: 5px;
+    
+    background-image: url("https://www.wcv.com/wp-content/uploads/2019/09/NYC-Skyline.jpg");
+    background-attachment: fixed;
+  
+}
+h5{
+    font-size: medium;
+    text-align: end;
+    text-align: right;
+    color: white;
+}
